@@ -10,3 +10,5 @@ The Healthcare Power BI Dashboard project is designed to provide a comprehensive
  • Drill-Down Capabilities: Implement drill-down and drill-through functionalities.
  • Filtering and Slicing: Incorporate filters and slicers for easy data segmentation.
  • Navigation: Use navigational elements for seamless report browsing.
+ # DataSete Used :
+- <a href=" https://github.com/VaishnaviDorik/Health-Care-Dashboard/blob/main/Patient_History_data.xlsx"> DataSets</a>
