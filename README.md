@@ -1,6 +1,7 @@
 # Health-Care-Dashboard
 The Healthcare Power BI Dashboard project is designed to provide a comprehensive data visualization solution using Power BI. 
-#Objective The main goals of this project are:
+
+# Objective The main goals of this project are :
 
 • Data Visualization: Develop interactive visualizations aiding in understanding hospital metrics.
 • Data Transformation: Perform comprehensive data transformations using Power Query Editor for consistency and accuracy.
