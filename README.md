@@ -11,6 +11,7 @@ The Healthcare Power BI Dashboard project is designed to provide a comprehensive
  • Filtering and Slicing: Incorporate filters and slicers for easy data segmentation.
  • Navigation: Use navigational elements for seamless report browsing.
  # DataSete Used :
-- <a href=" https://github.com/VaishnaviDorik/Health-Care-Dashboard/blob/main/Patient_History_data.xlsx"> DataSets</a>
+- <a href="[ https://github.com/VaishnaviDorik/Health-Care-Dashboard/blob/main/Patient_History_data.xlsx](https://github.com/VaishnaviDorik/Health-Care-Dashboard/blob/main/Patient_History_data.xlsx)"> DataSets</a>
+- <a href=""> DataSets</a>
 # Dashboard : 
 -<a href="https://github.com/VaishnaviDorik/Health-Care-Dashboard/blob/main/Health%20Care.png">
