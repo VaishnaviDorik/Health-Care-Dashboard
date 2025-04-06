@@ -15,3 +15,7 @@ The Healthcare Power BI Dashboard project is designed to provide a comprehensive
 
 # Dashboard : 
 -<a href="https://github.com/VaishnaviDorik/Health-Care-Dashboard/blob/main/Health%20Care.png">Dashboard</a>
+# Dashboard in Power BI :
+-<a href="https://drive.google.com/file/d/1tbCFS3yroh0OXR-v-EJDXeHXfgZ7-tax/view?usp=sharing">Dashboard in power bi</a>
+# Dashbaord Video :
+- <a href="https://drive.google.com/file/d/1wzM9mBZ_iwUCT2f3zDxkhrUHZUqI-e-g/view?usp=sharing">Dashboard Video</a>
